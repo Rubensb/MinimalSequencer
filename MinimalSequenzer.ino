@@ -1,6 +1,6 @@
 /*
- * MinimalstepSequencer with CV
- * Rubens 2018
+ * MinimalstepSequencer
+ * Rubens Bandelin 2018
  * I force myself to eat no Cheeseburger
  */
 
